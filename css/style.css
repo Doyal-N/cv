@@ -17,6 +17,12 @@ hr {
   margin-bottom: 1.5rem;
 }
 
+h2 {
+  font-size: 3.2rem;
+  line-height: 1.25;
+  letter-spacing: -.1rem;
+}
+
 .img {
   width: 200px;
   height: 200px;
